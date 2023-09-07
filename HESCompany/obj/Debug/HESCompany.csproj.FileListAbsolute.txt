@@ -1,0 +1,240 @@
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\HESCompany.dll.config
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\HESCompany.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\HESCompany.pdb
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\csc.exe
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\csc.exe.config
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\csc.rsp
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\csi.exe
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\csi.exe.config
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\csi.rsp
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.AppContext.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Console.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.IO.Compression.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Net.Http.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.ValueTuple.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\vbc.exe
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\vbc.exe.config
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\vbc.rsp
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\VBCSCompiler.exe
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\obj\Debug\HESCompany.csprojAssemblyReference.cache
+C:\Users\mesut\source\repos\HESCompany\HESCompany\obj\Debug\HESCompany.csproj.CoreCompileInputs.cache
+C:\Users\mesut\source\repos\HESCompany\HESCompany\obj\Debug\HESCompany.csproj.CopyComplete
+C:\Users\mesut\source\repos\HESCompany\HESCompany\obj\Debug\HESCompany.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\obj\Debug\HESCompany.pdb
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Data.v20.1.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Printing.v20.1.Core.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Web.ASPxPivotGrid.v20.1.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Web.Resources.v20.1.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Web.v20.1.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Office.v20.1.Core.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Data.v20.1.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Printing.v20.1.Core.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Web.ASPxPivotGrid.v20.1.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Web.v20.1.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\DevExpress.Office.v20.1.Core.xml
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\de\DevExpress.Web.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\es\DevExpress.Web.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ja\DevExpress.Web.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ru\DevExpress.Web.v20.1.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\mesut\source\repos\HESCompany\HESCompany\obj\Debug\HESCompany.dll.licenses
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\HESCompany.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\HESCompany.pdb
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\csc.exe
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\csc.exe.config
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\csc.rsp
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\csi.exe
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\csi.exe.config
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\csi.rsp
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.AppContext.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Console.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.IO.Compression.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Net.Http.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.ValueTuple.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\vbc.exe
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\vbc.exe.config
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\vbc.rsp
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\VBCSCompiler.exe
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Data.v20.1.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Web.ASPxPivotGrid.v20.1.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Web.ASPxThemes.v20.1.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Web.Resources.v20.1.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Web.v20.1.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Office.v20.1.Core.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Data.v20.1.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Web.ASPxPivotGrid.v20.1.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Web.v20.1.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\DevExpress.Office.v20.1.Core.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\de\DevExpress.Web.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\es\DevExpress.Web.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ja\DevExpress.Web.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ru\DevExpress.Web.v20.1.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\obj\Debug\HESCompany.csprojAssemblyReference.cache
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\obj\Debug\HESCompany.dll.licenses
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\obj\Debug\HESCompany.csproj.CoreCompileInputs.cache
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\obj\Debug\HESCompany.csproj.CopyComplete
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\obj\Debug\HESCompany.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\obj\Debug\HESCompany.pdb
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\HESCompany.dll.config
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.Owin.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.Owin.Security.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Newtonsoft.Json.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Owin.dll
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.Owin.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Microsoft.Owin.Security.xml
+C:\Users\Betül Erkantarcı\Desktop\HESCompany\HESCompany\bin\Newtonsoft.Json.xml
